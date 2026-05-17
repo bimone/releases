@@ -1,3 +1,3 @@
-# BIMone Releases
+# BIM One Releases
 
-Installer downloads for BIMone desktop tools. Visit [bimonehub.com](https://bimonehub.com) to get started.
+Installer downloads for BIM One desktop tools. Visit [bimonehub.com](https://bimonehub.com) to get started.
